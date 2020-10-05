@@ -1,8 +1,8 @@
 {
-	"background_color": "#ffffff",
-	"theme_color": "#333333",
-	"name": "TODO",
-	"short_name": "TODO",
+	"background_color": "#f95c69",
+	"theme_color": "#f95c69",
+	"name": "Daniel Schischkin",
+	"short_name": "Schischkin",
 	"display": "minimal-ui",
 	"start_url": "/",
 	"icons": [
