@@ -1,1 +1,1 @@
-<h1 class="text-xl">It works!</h1>
+<h1 class="text-3xl">It works!</h1>
